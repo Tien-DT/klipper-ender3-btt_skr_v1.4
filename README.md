@@ -53,7 +53,7 @@ The diagram below describes an alternate wiring method for the **BLTouch/CRTouch
 
 For a visual reference and a full step-by-step tutorial, watch the installation guide on YouTube. It covers wiring, jumper settings, Marlin firmware configuration, and accessories.
 
-📺 **[Thanks for this video - Watch on YouTube: BigTreeTech SKR V1.4 & V1.4 Turbo Installation Guide]([https://www.youtube.com](https://www.youtube.com/watch?v=-Gdk0wHg51w))**
+📺 **[Watch on YouTube: BigTreeTech SKR V1.4 & V1.4 Turbo Installation Guide](https://www.youtube.com/watch?v=-Gdk0wHg51w)**
 
 ### ⏱️ Key Topics in the Video:
 - **[00:00:54]** Introduction and comparison with older versions  
