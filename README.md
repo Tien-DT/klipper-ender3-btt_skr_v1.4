@@ -22,11 +22,14 @@ Below is a checklist for the **main connections** on the SKR V1.4 board. Ensure 
 | J     | 10-Pin Cable for the LCD                          |
 | K     | End Stops x3 (X, Y, Z axes)                       |
 
+### 🖼️ Main Board Wiring Diagram  
+![Board Wiring Diagram](BoardWiringDiagram.png)
+
 ---
 
-## 📌 2. BLTouch Wiring (Alternate Method)
+## 📌 2. BLTouch/CRTouch Wiring (Alternate Method)
 
-The diagram below describes an alternate wiring method for the **BLTouch sensor**, using the dedicated `SERVOS` and `Probe` ports on the board.
+The diagram below describes an alternate wiring method for the **BLTouch/CRTouch sensor**, using the dedicated `SERVOS` and `Probe` ports on the board.
 
 ### 🔌 Connections:
 
@@ -41,13 +44,16 @@ The diagram below describes an alternate wiring method for the **BLTouch sensor*
 
 > ⚠️ Note: The Probe port also acts as the Z-min end stop.
 
+### 🖼️ CRTouch/BLTouch Wiring Diagram  
+![CRTouch Wiring Diagram](CRTouchWiringDiagram.jpg)
+
 ---
 
 ## 🎥 3. Detailed Video Guide
 
 For a visual reference and a full step-by-step tutorial, watch the installation guide on YouTube. It covers wiring, jumper settings, Marlin firmware configuration, and accessories.
 
-📺 **[Watch on YouTube: BigTreeTech SKR V1.4 & V1.4 Turbo Installation Guide](https://www.youtube.com)**
+📺 **[Thanks for this video - Watch on YouTube: BigTreeTech SKR V1.4 & V1.4 Turbo Installation Guide](https://www.youtube.com)**
 
 ### ⏱️ Key Topics in the Video:
 - **[00:00:54]** Introduction and comparison with older versions  
